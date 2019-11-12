@@ -24,33 +24,62 @@ onload = function() {
         $elem.style.top = (y - 20) + "px";
         clearInterval(anim);
         switch (++click_cnt) {
-            case 10:
-                $elem.innerText = "OωO";
+            case 3:
+                $elem.innerText = "小";
                 break;
-            case 20:
-                $elem.innerText = "(๑•́ ∀ •̀๑)";
+            case 6:
+                $elem.innerText = "于";
                 break;
-            case 30:
-                $elem.innerText = "(๑•́ ₃ •̀๑)";
+            case 9:
+                $elem.innerText = "格";
                 break;
-            case 40:
-                $elem.innerText = "(๑•̀_•́๑)";
+            case 12:
+                $elem.innerText = "格";
                 break;
-            case 50:
-                $elem.innerText = "（￣へ￣）";
+            case 15:
+                $elem.innerText = "🌸";
                 break;
-            case 60:
-                $elem.innerText = "(╯°口°)╯(┴—┴";
+            case 18:
+                $elem.innerText = "🌹";
                 break;
-            case 70:
-                $elem.innerText = "૮( ᵒ̌皿ᵒ̌ )ა";
+            case 21:
+                $elem.innerText = "💐";
                 break;
-            case 80:
-                $elem.innerText = "╮(｡>口<｡)╭";
+            case 24:
+                $elem.innerText = "🌻";
                 break;
-            case 90:
-                $elem.innerText = "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃";
+            case 27:
+                $elem.innerText = "🌷";
+                click_cnt = 0
                 break;
+            // case 3:
+            //     $elem.innerText = "OωO";
+            //     break;
+            // case 6:
+            //     $elem.innerText = "(๑•́ ∀ •̀๑)";
+            //     break;
+            // case 9:
+            //     $elem.innerText = "(๑•́ ₃ •̀๑)";
+            //     break;
+            // case 12:
+            //     $elem.innerText = "(๑•̀_•́๑)";
+            //     break;
+            // case 15:
+            //     $elem.innerText = "（￣へ￣）";
+            //     break;
+            // case 18:
+            //     $elem.innerText = "(╯°口°)╯(┴—┴";
+            //     break;
+            // case 21:
+            //     $elem.innerText = "૮( ᵒ̌皿ᵒ̌ )ა";
+            //     break;
+            // case 24:
+            //     $elem.innerText = "╮(｡>口<｡)╭";
+            //     break;
+            // case 27:
+            //     $elem.innerText = "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃";
+            //     click_cnt = 0
+            //     break;
             case 100:
             case 101:
             case 102:
