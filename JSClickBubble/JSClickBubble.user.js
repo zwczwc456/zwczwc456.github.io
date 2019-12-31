@@ -25,42 +25,30 @@ onload = function() {
         clearInterval(anim);
         switch (++click_cnt) {
             case 3:
-                $elem.innerText = "我";
+                $elem.innerText = "小";
                 break;
             case 6:
-                $elem.innerText = "们";
+                $elem.innerText = "于";
                 break;
             case 9:
-                $elem.innerText = "在";
+                $elem.innerText = "格";
                 break;
             case 12:
-                $elem.innerText = "一";
+                $elem.innerText = "格";
                 break;
             case 15:
-                $elem.innerText = "起";
+                $elem.innerText = "🌸";
                 break;
             case 18:
-                $elem.innerText = "世";
+                $elem.innerText = "🌹";
                 break;
             case 21:
-                $elem.innerText = "界";
+                $elem.innerText = "💐";
                 break;
             case 24:
-                $elem.innerText = "未";
+                $elem.innerText = "🌻";
                 break;
             case 27:
-                $elem.innerText = "末";
-                click_cnt = 0
-                break;
-            case 30:
-                $elem.innerText = "日";
-                click_cnt = 0
-                break;
-            case 33:
-                $elem.innerText = "🌷";
-                click_cnt = 0
-                break;
-            case 36:
                 $elem.innerText = "🌷";
                 click_cnt = 0
                 break;
