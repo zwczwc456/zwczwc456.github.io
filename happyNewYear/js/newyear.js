@@ -133,7 +133,7 @@ $(document).ready(function() {
 		countdown: true,
 		callbacks: {
 			interval: function() {
-				var time = this.factory.getTime().time;
+				var time = 0;
 				if(time <= 10 && time > 0) {
 					pulse();
 				}
