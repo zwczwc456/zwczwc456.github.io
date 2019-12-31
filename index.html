@@ -1,63 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>小于格格醉美</title>
-  <link rel="stylesheet" href="tetris.css">
-  <script type="text/javascript" src="./JSClickBubble/JSClickBubble.user.js"></script>
-</head>
-<body>
-  <div class="container">
-    <h2 style="color: pink">亲爱的小于格格</h2>
-    <div style="text-align:center;">
-      <canvas id="canvas"></canvas> 
-    </div>
-    <div class="btn-group" style="text-align:center;">
-      <div class="button">
-        <button onclick="move('top')">上</button>
-      </div>
-      <div class="button">
-        <button onclick="move('right')">右</button>
-      </div>
-      <div class="button">
-        <button onclick="move('left')">左</button>
-      </div>
-      <div class="button">
-        <button onclick="move('bottom')">下</button>
-      </div>
-    </div>
-  </div>
-  
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.9.1/polyfill.min.js"></script> -->
-<script src="./tetris.js"></script>
-<script>
+<html>
+	<head>
+		<title>Happy New Year</title>
+		<meta name="viewport" content="width=960">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<link href="happyNewYear/css/style.css" rel="stylesheet" type="text/css">
+		<link href="happyNewYear/css/flipclock.css" rel="stylesheet" type="text/css">
+		<link href="happyNewYear/css/animate.css" rel="stylesheet" type="text/css">
+		<link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 
-  var canvas = document.getElementById('canvas');
-  var app = new App(canvas, {
-    row: 18,
-    col: 9,
-    unit: 15
-  });
-  app.init();
+		<link href="http://peterschmalfeldt.com/images/favicon.ico" rel="shortcut icon">
 
-  function move(direction) {
-    switch(direction){
-      case 'left':  //left
-        app.move(-1, 0)
-        break;
-      case 'top':   //up
-        app.rotate()
-        break;
-      case 'right':   //right
-        app.move(1, 0)
-        break;
-      case 'bottom':  //bottom
-        app.move(0, 1)
-        break;
-    }
-  }
+		<link rel="apple-touch-icon-precomposed" href="http://peterschmalfeldt.com/images/apple/icon-57x57.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://peterschmalfeldt.com/images/apple/icon-72x72.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://peterschmalfeldt.com/images/apple/icon-114x114.png" />
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://peterschmalfeldt.com/images/apple/icon-144x144.png" />
 
-</script>
-</body>
+		<link rel="apple-touch-startup-image" media="(device-width: 320px)" href="http://peterschmalfeldt.com/images/apple/startup-image-320x460.jpg"><!-- iPhone -->
+		<link rel="apple-touch-startup-image" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" href="http://peterschmalfeldt.com/images/apple/startup-image-640x920.jpg"><!-- iPhone (Retina) -->
+		<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="http://peterschmalfeldt.com/images/apple/startup-image-640x1096.jpg"><!-- iPhone 5 -->
+		<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: portrait)" href="http://peterschmalfeldt.com/images/apple/startup-image-768x1004.jpg"><!-- iPad (portrait) -->
+		<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: landscape)" href="http://peterschmalfeldt.com/images/apple/startup-image-748x1024.jpg"><!-- iPad (landscape) -->
+		<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="http://peterschmalfeldt.com/images/apple/startup-image-1536x2008.jpg"><!-- iPad (Retina, portrait) -->
+		<link rel="apple-touch-startup-image" media="(device-width: 768px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="http://peterschmalfeldt.com/images/apple/startup-image-1496x2048.jpg"><!-- iPad (Retina, landscape) -->
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="clock animated flipInX"></div>
+		</div>
+		<canvas id="confetti"></canvas>
+		<div class="message">Happy New Year !!!</div>
+		<div class="stars"></div>
+		<div class="twinkling"></div>
+		<div class="clouds"></div>
+		
+		<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+		<script src="happyNewYear/js/flipclock.js"></script>
+		<script src="happyNewYear/js/newyear.js"></script>
+	</body>
 </html>
