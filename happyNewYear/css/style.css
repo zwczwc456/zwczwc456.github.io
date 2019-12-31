@@ -13,7 +13,7 @@ html, body {
 }
 .message
 {
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Mountains of Christmas', cursive;
     color: white;
     position: absolute;
     font-size: 95px;
@@ -23,8 +23,8 @@ html, body {
     bottom:0;
     width: 100%;
     height:200px;
-    z-index: 50;
-    margin: auto auto;
+    z-index: 10;
+    margin: 0 auto;
     line-height: 200px;
     text-align: center;
     display: none;
