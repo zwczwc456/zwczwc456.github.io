@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris.css" beforeDir="false" afterPath="$PROJECT_DIR$/tetris.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577784892212</updated>
       <workItem from="1577784893618" duration="7815000" />
+      <workItem from="1577929548118" duration="524000" />
     </task>
     <servers />
   </component>
@@ -77,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

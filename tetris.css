@@ -1,7 +1,6 @@
 html, body {
   font-family: Asial, sans-serif;
-  background-image: url(happyNewYear2020/background.jpeg);
-  background-size: cover;
+  background: #ccd0d4;
   margin: 0;
 }
 body {
