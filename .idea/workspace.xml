@@ -4,7 +4,6 @@
     <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/js/mikutap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/music/js/mikutap.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <workItem from="1577929548118" duration="1214000" />
       <workItem from="1578125394857" duration="622000" />
       <workItem from="1578153404479" duration="6000" />
-      <workItem from="1580798720488" duration="4220000" />
+      <workItem from="1580798720488" duration="4333000" />
     </task>
     <servers />
   </component>
