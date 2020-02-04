@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishjoy.game.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishjoy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fishjoy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bottom-bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bullet8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon_minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon_minus_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon_plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cannon_plus_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coinAni1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coinAni2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coinText.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/energy-bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fish9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/game_bg_2_hd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_shuxian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/number_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/shark-hd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/shark1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/shark2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/startbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/web7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/quark.base-1.0.0.alpha.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FishGroup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FishManager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/R.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fishjoy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fishjoy2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Bullet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Cannon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Fish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Num.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Player.js" beforeDir="false" />
-    </list>
+    <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +74,7 @@
       <workItem from="1577929548118" duration="1214000" />
       <workItem from="1578125394857" duration="622000" />
       <workItem from="1578153404479" duration="6000" />
-      <workItem from="1580798720488" duration="3249000" />
+      <workItem from="1580798720488" duration="3550000" />
     </task>
     <servers />
   </component>
