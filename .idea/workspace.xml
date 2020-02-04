@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark_stripes.png" beforeDir="false" afterPath="$PROJECT_DIR$/back/dark_stripes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/happy-new-year.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/happy-new-year.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-1.9.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/back/jquery-1.9.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newyear.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/newyear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t1.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t2.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t3.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t4.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris.css" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetris.js" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +49,13 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/back" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/fishjoy" />
       <recent name="$PROJECT_DIR$/happyNewYear2020" />
       <recent name="$PROJECT_DIR$/happyNewYear" />
     </key>
@@ -69,6 +86,7 @@
       <workItem from="1577929548118" duration="1214000" />
       <workItem from="1578125394857" duration="622000" />
       <workItem from="1578153404479" duration="6000" />
+      <workItem from="1580798720488" duration="1732000" />
     </task>
     <servers />
   </component>

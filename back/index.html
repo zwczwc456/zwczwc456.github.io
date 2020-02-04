@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<html>
+<head>
+    <title>张文超和于梦宇永远在一起</title>
+    <meta name="keywords" content="永远在一起"/>
+    <meta name="description" content="张文超和于梦宇"/>
+    <link href="../zhufu/main.css" rel="stylesheet" type="text/css"/>
+    <script src="../zhufu/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript">    String.prototype.replaceAll = function (s1, s2) {
+        return this.replace(new RegExp(s1, "gm"), s2);
+    }
+
+    function trim(str) {
+        return str.replace(/(^\s*)|(\s*$)/g, "");
+    }
+
+    function QueryString(item) {
+        var sValue = location.search.match(new RegExp("[\?\&]" + item + "=([^\&]*)(\&?)", "i"))
+        return sValue ? sValue[1] : sValue
+    }
+
+    var dusername = "张文超";
+    var lusername = QueryString("from");
+    if (lusername) {
+        lusername = lusername.replaceAll("!", "%");
+        lusername = lusername.replaceAll("%21", "%");
+        lusername = unescape(lusername);
+        if (!lusername) {
+            lusername = dusername;
+        }
+    } else {
+        lusername = dusername;
+    }
+
+    function check() {
+        obj = document.getElementById("from").value;
+        if (obj.length > 30) {
+            alert('太长');
+            return false;
+        }
+        if (obj.length == 0) {
+            alert('还没填姓名呀!');
+            return false;
+        }
+        obj = escape(obj).replaceAll("%", "!");
+
+    }
+
+    mname = escape(lusername).replaceAll("%", "!");
+
+    </script>
+
+</head>
+<body>
+<div class="wrap">
+    <audio src="../zhufu/bainian.mp3" autoplay loop></audio>
+    <div class="deng"></div>
+    <div class="lihua"></div>
+    <div class="tips">
+    </div>
+    <div class="clear"></div>
+    <div class="title">
+        小于格格，新年快乐！
+        <div></div>
+    </div>
+    <div class="clear"></div>
+    <div class="gif">
+        <img src="../zhufu/1.gif" alt="年年有余"/>
+        <img src="../zhufu/2.gif" alt="心想事成"/>
+        <img src="../zhufu/3.gif" alt="恭喜发财"/>
+        <img src="../zhufu/4.gif" alt="大吉大利"/>
+    </div>
+    <div class="clear"></div>
+    <div class="zhufu">
+        <h1>❤️小于格格❤️</h1>
+        <p> 从来没有像现在这样，希望春节早点过去，希望年早点过去，希望这个冬天早点过去，希望突如其来的肺炎早点过去。<br/>
+            2020，希望世界和平，希望每个人都健康。<br/>
+            多么希望，此刻我们就在彼此的身边，紧紧拥抱在一起，在亲吻中，迎来注定不凡的2020。<br/>
+                                           张文超和于梦宇永远在一起
+        </p>
+        <h1 style="padding-top:40px">新的开始，新的希望；新的一年，新的梦想；新的阳光，新的篇章! </h1>
+        <p><img src="../zhufu/xinnian.png" alt="新年快乐"/></p>
+    </div>
+    <div class="clear"></div>
+    <div class="formbox">
+
+        <div style="display:none">
+            <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+            document.write(unescape("%3Cspan id='cnzz_stat_icon_1261042145'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1261042145' type='text/javascript'%3E%3C/script%3E"));</script>
+        </div>
+</body>
+</html>
