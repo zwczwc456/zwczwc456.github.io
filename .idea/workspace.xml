@@ -3,18 +3,76 @@
   <component name="ChangeListManager">
     <list default="true" id="789622bd-cf36-44db-bd8d-997af8ee458c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark_stripes.png" beforeDir="false" afterPath="$PROJECT_DIR$/back/dark_stripes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/happy-new-year.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/happy-new-year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-1.9.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/back/jquery-1.9.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newyear.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/newyear.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t1.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t2.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t4.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/t4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tetris.css" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tetris.html" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tetris.js" beforeDir="false" afterPath="$PROJECT_DIR$/back/tetris.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fishjoy.game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fishjoy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fishjoy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bottom-bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon_minus_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cannon_plus_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coinAni1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coinAni2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coinText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/energy-bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fish9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/game_bg_2_hd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/level_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/level_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/level_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/level_shuxian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/number_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shark-hd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shark1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shark2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/startbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/web7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/quark.base-1.0.0.alpha.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FishGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FishManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/R.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fishjoy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fishjoy2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Bullet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Cannon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Num.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Player.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +98,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/music/data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -50,14 +108,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/back" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/music/data" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/music" />
       <recent name="$PROJECT_DIR$/fishjoy" />
       <recent name="$PROJECT_DIR$/happyNewYear2020" />
-      <recent name="$PROJECT_DIR$/happyNewYear" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,7 +146,7 @@
       <workItem from="1577929548118" duration="1214000" />
       <workItem from="1578125394857" duration="622000" />
       <workItem from="1578153404479" duration="6000" />
-      <workItem from="1580798720488" duration="1732000" />
+      <workItem from="1580798720488" duration="3249000" />
     </task>
     <servers />
   </component>
