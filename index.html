@@ -96,11 +96,15 @@
 
 </head>
 
-<body>
+<body id = 'body_div'>
 <!--更改为你女朋友的头像-->
-<!--<div class="cs">-->
-<!--    <img src="./img/head.jpg" id="logo">-->
-<!--</div>-->
+<div class="cs">
+<!--    <img src="./img/3361589893883_.pic.jpg" id="logo">-->
+    <audio id="audio_play" autoplay="autoplay">
+        <source src="http://m10.music.126.net/20200519232016/7d41e9f3d07ebfc6e00b6a8d69d6dd18/ymusic/188b/a23e/7849/86e3551901c12727495899244ed3c068.mp3" type="audio/mpeg">
+    </audio>
+</div>
+
 <canvas class="canvas" width="1820" height="905"></canvas>
 <p class="text" style="color: #ed3073;">
     We fell in love
@@ -125,8 +129,17 @@
         seconds = Math.floor((e_minsold - minsold) * 60);
         span_dt_dt.innerHTML = daysold + "天" + hrsold + "小时" + minsold + "分" + seconds + "秒";
     }
+    // function audioAutoPlay() {
+    //     const audio = document.getElementById('audio_play');
+    // audio.play();
+    // }
+    // audioAutoPlay();
 
     show_date_time();
+
+    document.getElementById("body_div").onclick=function () {
+        document.getElementById('audio_play').play();
+    };
 </script>
 <script>
     var S = {
@@ -667,8 +680,5 @@
     }());
     S.init();
 </script>
-<audio autoplay="autoplay" loop="loop">
-    <source src="http://m10.music.126.net/20180509183512/5ae461e9a42675d782840bf139b05c60/ymusic/e492/ea7a/6a27/8799d19e52d9bbe3ae15febb03d7efdb.mp3" type="audio/mpeg">
-</audio>
 </body>
 </html>
