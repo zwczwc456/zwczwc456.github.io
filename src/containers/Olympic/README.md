@@ -14,7 +14,7 @@
 
 ![move](./images/move.gif)
 
-> `👀` 在线预览：<https://dragonir.github.io/3d/#/olympic> （部署在 `GitHub`，加载速度可能会有点慢 `😓`）
+> `👀` 在线预览：<https://zwczwc456.github.io/3d/#/olympic> （部署在 `GitHub`，加载速度可能会有点慢 `😓`）
 
 ## 实现
 

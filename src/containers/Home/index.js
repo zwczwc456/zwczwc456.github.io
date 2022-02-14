@@ -35,14 +35,14 @@ const workList = [
     three: true
   },
   {
-    link: 'https://dragonir.github.io/3d-meta-logo/',
+    link: 'https://zwczwc456.github.io/3d-meta-logo/',
     title: '脸书Meta元宇宙Logo',
     description: '🪐 Three.js + Blender 实现炫酷的Facebook元宇宙Logo.',
     image: metaImage,
     three: true
   },
   {
-    link: 'https://dragonir.github.io/3d-panoramic-vision/',
+    link: 'https://zwczwc456.github.io/3d-panoramic-vision/',
     title: '全景侦探小游戏',
     description: '🕵️‍ 使用Three.js全景功能实现侦探小游戏。',
     image: panoramicImage,
@@ -84,13 +84,13 @@ const workList = [
     three: true
   },
   {
-    link: 'https://dragonir.github.io/zelda-map/',
+    link: 'https://zwczwc456.github.io/zelda-map/',
     title: '塞尔达：旷野之息地图',
     description: '🗺 在地图上标记神庙、查询回忆点！',
     image: zeldaMapImage,
   },
   {
-    link: 'https://dragonir.github.io/h5-scan-qrcode/',
+    link: 'https://zwczwc456.github.io/h5-scan-qrcode/',
     title: '浏览器扫码',
     description: '📷 使用原生浏览器就可以在h5页面实现扫码功能了，试试看！',
     image: scanImage,

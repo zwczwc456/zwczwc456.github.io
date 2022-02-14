@@ -12,7 +12,7 @@
 
 实现效果图如文章 `👆` `Banner图` 所示，页面由包含我的个人信息的奖牌 `🥇`、`1000+ Followers` 模型构成，通过以下链接可以实时预览哦 `🤣`。
 
-> `👀` 在线预览：<https://dragonir.github.io/3d/#/segmentfault>
+> `👀` 在线预览：<https://zwczwc456.github.io/3d/#/segmentfault>
 
 ## 实现
 
